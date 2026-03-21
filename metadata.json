@@ -1,0 +1,5 @@
+{
+  "name": "The AI Legislative Analyzer",
+  "description": "A citizen-centric dashboard for analyzing and simplifying complex Indian legal documents using hierarchical token compression and RAG.",
+  "requestFramePermissions": []
+}
