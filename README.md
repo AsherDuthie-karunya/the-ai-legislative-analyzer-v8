@@ -54,5 +54,5 @@ This system implements a sophisticated AI pipeline:
    npm run build
    ```
 
-## 📝 License
+## License
 This project is licensed under the Apache-2.0 License.
