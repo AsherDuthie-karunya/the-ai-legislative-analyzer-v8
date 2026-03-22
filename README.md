@@ -1,6 +1,6 @@
 # The AI Legislative Analyzer 
 
-A citizen-centric dashboard for analyzing and simplifying complex Indian legal documents using **Hierarchical Token Compression** and **Retrieval-Augmented Generation (RAG)**.
+A people-centric dashboard for analyzing and simplifying complex Indian legal documents using **Hierarchical Token Compression** and **Retrieval-Augmented Generation (RAG)**.
 
 ## The Problem
 Legal documents in India are often 100k+ tokens long, filled with archaic jargon, and inaccessible to the average citizen. Sending these full documents to LLMs is expensive, slow, and often hits context window limits.
